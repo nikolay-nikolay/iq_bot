@@ -3,7 +3,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton, Message
 from questions import test_questions
 from rooms import Rooms
 
-bot = telebot.TeleBot('5526150854:AAErUO40Bor5vKFdAaDdhyLeVaQeSlcJxKw')
+bot = telebot.TeleBot('5471517968:AAE3gMBimLWcmjc1-ihAJkR74v59-mNmPHg')
 rooms = Rooms()
 
 hello_text = 'Привет, я умный IQ-тестбот.\nХочешь пройти тест и узнать свой уровень IQ?'
